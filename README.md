@@ -12,7 +12,7 @@
 
 ---
 
-## ✈️ About
+## 🪖About🪖
 
 Warsteel 3945 is an addon mod for **[Superb Warfare](https://github.com/Mercurows/SuperbWarfare)** that adds historical WW2 tanks to Minecraft. 
 Aviation will be added soon
@@ -47,12 +47,12 @@ The compiled `.jar` will be in `build/libs/`
 
 ## 👥 Team
 
-**Founder** — @Lilrevo and @Camaooo
+**Owners** — @Lilrevo & @Camaooo
 
-**Contributer**
+**Contributers** @Lordamongus, @Katgirl
 
 ---
 
 <div align="center">
-Made with passion! 
+Made with love yo! 
 </div>
