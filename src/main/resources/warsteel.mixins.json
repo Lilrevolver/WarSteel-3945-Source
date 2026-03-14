@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "rev.rev.warsteel.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "warsteel.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "LevelRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

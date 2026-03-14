@@ -1,0 +1,62 @@
+{
+  "kv1_1p_fire": {
+    "sounds": [
+      "warsteel:kv1_1p_fire"
+    ]
+  },
+  "kv1_3p_fire": {
+    "sounds": [
+      "warsteel:kv1_3p_fire"
+    ]
+  },
+  "tiger1_1p_fire": {
+    "sounds": [
+      "warsteel:tiger1_1p_fire"
+    ]
+  },
+  "tiger1_3p_fire": {
+    "sounds": [
+      "warsteel:tiger1_3p_fire"
+    ]
+  },
+  "kv2_1p_fire": {
+    "sounds": [
+      "warsteel:kv2_1p_fire"
+    ]
+  },
+  "kv2_3p_fire": {
+    "sounds": [
+      "warsteel:kv2_3p_fire"
+    ]
+  },
+  "default_reload": {
+    "sounds": [
+      "warsteel:default_reload"
+    ]
+  },
+  "kv_engine": {
+    "sounds": [
+      "warsteel:kv_engine"
+    ]
+  },
+  "tiger_engine": {
+    "sounds": [
+      "warsteel:tiger_engine"
+    ]
+  },
+  "tiger2_engine": {
+    "sounds": [
+      "warsteel:tiger2_engine"
+    ]
+  },
+  "m_2_far": {
+    "sounds": [
+      "minecraft:entity.firework_rocket.blast"
+    ]
+  },
+  "m_2_veryfar": {
+    "sounds": [
+      "minecraft:entity.firework_rocket.blast_far"
+    ]
+  }
+} 
